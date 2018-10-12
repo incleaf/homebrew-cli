@@ -1,4 +1,4 @@
-class cr8cert < Formula
+class Cr8cert < Formula
   desc "Create an SSL certificate for local development with zero configuration ✨"
   homepage "https://github.com/incleaf/cr8cert"
   url "https://github.com/incleaf/cr8cert/releases/download/v0.1/cr8cert-v0.1-darwin-amd64.zip"
